@@ -4,6 +4,18 @@
 
 This is the backend of an e-commerce website. It uses sequelize to create a database and connect it to the server. It also uses express to create the server and routes. It uses dotenv to hide the database credentials.
 
+## Table of Contents
+
+- [Description](#description)
+- [Usage](#usage)
+- [Link to Video Walkthrough](#link-to-video-walkthrough)
+- [Screenshot](#screenshot)
+- [Testing](#testing)
+- [License](#license)
+- [Contributing](#contributing)
+- [Questions](#questions)
+- [Credits](#credits)
+
 ## Usage
 
 After cloning the repo, run npm i to install the dependencies. Then after creating the database, run npm run seed to seed the database. Then run npm start to start the server.

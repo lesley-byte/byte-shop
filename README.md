@@ -1,52 +1,39 @@
-# bootcampProjectTemplate
+# byte-shop
 
 ## Description
 
-A template for new coding bootcamp projects to make setup faster and easier.
+This is the backend of an e-commerce website. It uses sequelize to create a database and connect it to the server. It also uses express to create the server and routes. It uses dotenv to hide the database credentials.
 
 ## Usage
 
-Use this when starting a new project.  It will create a directory structure and a README.md file with some basic information.
+After cloning the repo, run npm i to install the dependencies. Then after creating the database, run npm run seed to seed the database. Then run npm start to start the server.
 
-## Link to Deployed Application
-[Deployed Application]()
+## Link to Video Walkthrough
+
+[Video Walkthrough]()
 
 ## Screenshot
+
 ![Screenshot](./assets/images/screenshot.png)
 
 ## Testing
 
-Check if its up to date occasionally
+Testing has not been implemented yet.
 
 ## License
 
 Mit License
 
-## Badges
-![bootcamp Education](https://img.shields.io/badge/bootcamp-Education-red)
-
-![JQuery Project](https://img.shields.io/badge/JQuery-Project-ff69b4)
-
-![codestyle: standard](https://badgen.net/badge/code%20style/standard/f2a)
-
-[![forthebadge](https://forthebadge.com/images/badges/contains-17-coffee-cups.svg)](https://forthebadge.com)
-
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
-
-![badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-[![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
-
-![prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
-
-![badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-![Jquery](https://img.shields.io/badge/Jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
 ![mit](https://img.shields.io/badge/License-MIT-yellow.svg)
-
-![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## Contributing
 
+If you would like to contribute to this project, please contact me at the email below.
+
+## Questions
+
+If you have any questions about the repo, open an issue or contact me directly at [phosphorescence3@hotmail.com](mailto:phosphorescence3@hotmail.com). You can find more of my work at [lesley-byte](https://github.com/lesley-byte) on github.
+
 ## Credits
+
+I would like to thank my tutor, my TA, my Instructor and my classmates for their help and support.

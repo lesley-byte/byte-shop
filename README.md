@@ -22,7 +22,7 @@ After cloning the repo, run npm i to install the dependencies. Then after creati
 
 ## Link to Video Walkthrough
 
-[Video Walkthrough]()
+[Video Walkthrough](https://drive.google.com/file/d/1uWDy7xWee9trTCvbTlhd_P116zlcnUg6/view)
 
 ## Screenshot
 
